@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-`Politecnico di Milano`
+I'm currently a Master's student at `Politecnico di Milano` (Milan, IT) following studies in mathematical engineering with specialization in statistical and machine learning.  Before this I completed my bachelor's degree at `Queen's University` (Kingston, CA) in the field of engineering mathematics and applied mechanics. 
+
+
 
 <!--
 **nnethercott/nnethercott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
