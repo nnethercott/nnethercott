@@ -1,10 +1,31 @@
-### Hi there 👋
+## Hi there 👋
+
+
+I'm a Master's student from Canada currently at `Politecnico di Milano` (Milan, IT) following studies in Mathematical Engineering with emphasis on Statistical and Machine Learning.  Before this I completed my bachelor's degree at `Queen's University` (Kingston, CA) in the field of Engineering Mathematics and Applied Mechanics. 
+
+Some stuff ab me...
+* 🐙 I have tentative plans to do that whole Medium data science article writing bit
+* 🥑 Currently curating an Angel Olsen essentials playlist
+* 🌀 Read through all of Sally Rooney's books at a blistering pace
+* 😌 Plan on returning to Canada as the pretentious guy who studied abroad 
+
+
+<p align="center" style="font-weight:bold"> 🔨 <b> Projects </b> <p>
+
 ---
+* [`Personal Website`](https://nnethercott.github.io/natenethercott/index.html): virtual dashboard for projects I get up to 
+* [`LesionTrack`](https://github.com/nnethercott/LesionTrack): method leveraging calculus of variations for tumour identification
+* [`CCLE`](): statistical analysis of the Cancer Cell Line Encyclopedia
+  
 
-I'm currently a Master's student at `Politecnico di Milano` (Milan, IT) following studies in mathematical engineering with specialization in statistical and machine learning.  Before this I completed my bachelor's degree at `Queen's University` (Kingston, CA) in the field of engineering mathematics and applied mechanics. 
+<p align="center" style="font-weight:bold">📫<b> Connect w/ me! </b> <p>
 
-
-
+---
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nate-nethercott-99b546176/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natenethercott@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nnethercott)
+  
+  
 <!--
 **nnethercott/nnethercott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
