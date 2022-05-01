@@ -10,7 +10,7 @@ Some stuff ab me...
 * 😌 Plan on returning to Canada as the pretentious guy who studied abroad 
 
 
-<p align="center" style="font-weight:bold"> 🔨 <b> Projects </b> <p>
+<p align="center" style="font-weight:bold"> 🔨 <b> More Interesting Projects </b> <p>
 
 ---
 * [`Personal Website`](https://nnethercott.github.io/natenethercott/index.html): virtual dashboard for projects I get up to 
