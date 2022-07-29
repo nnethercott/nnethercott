@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm a Master's student from Canada currently at `Politecnico di Milano` (Milan, IT) following studies in Mathematical Engineering, with emphasis on Statistical and Machine Learning.  Before this I completed my bachelor's degree at `Queen's University` (Kingston, CA) in the field of Engineering Mathematics and Applied Mechanics. 
+I'm a Master's student from Canada currently at `Politecnico di Milano` (Milan, IT) following studies in Mathematical Engineering, with emphasis on Statistical and Machine Learning.  Before this I completed my bachelor's degree at `Queen's University` (Kingston, CAN) in the field of Engineering Mathematics and Applied Mechanics. 
 
 Some stuff ab me...
 * 🐙 I have tentative plans to do that whole Medium data science article writing bit
