@@ -15,7 +15,7 @@ Some stuff ab me...
 ---
 * [`Personal Website`](https://nnethercott.github.io/natenethercott/index.html): virtual dashboard for projects I get up to 
 * [`LesionTrack`](https://github.com/nnethercott/LesionTrack): method which leverages calculus of variations for tumour identification
-* [`CCLE`](): statistical analysis of the [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/)
+* [`CCLE`](https://github.com/nnethercott/CCLE-Analysis): statistical analysis of the [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/)
   
 
 <p align="center" style="font-weight:bold">📫<b> Connect w/ me! </b> <p>
